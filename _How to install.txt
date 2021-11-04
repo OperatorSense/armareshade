@@ -1,0 +1,63 @@
+/// HOW TO APPLY REAL LIGHT 8 FOR ARMA 3_______
+
+1. Make sure you delete your previous Reshade. If you got none and start 
+fresh go to step 2. 
+
+Delete or move the following files: 
+
+- reshade-shaders folder 
+- dxgi.dll 
+- ReShade.ini 
+
+2. Simply unzip the dowload in your main Arma3 folder where the game.exe 
+is. The same elements as above must appear within your arma folder. 
+
+
+
+
+
+/// CONTROLS_______
+
+Pos 1 
+Toggle Reshade Menu 
+
+Page Up 
+Toggle Effect 
+
+Page Down 
+Reload Effect 
+
+Print Screen
+Screenshot
+
+
+
+
+
+/// SWITCH LOOKS_______
+
+Open reshade menu via Pos1-Key and look down at the end. There is a 
+dropdown to choose looks from. 
+
+
+
+
+
+/// HELP_______
+
+If you run into trouble read the FAQ at http://sh8.videopilot.link/
+There you can also join our Discord community
+
+Anything reshade related please visit the forum at www.reshade.me 
+
+
+
+
+
+/// Support_______
+
+If you like what I do you can buy me a coffee or help with the server costs
+at http://sh8.videopilot.link/
+
+
+
